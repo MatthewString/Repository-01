@@ -1,0 +1,33 @@
+.navbar {
+    background-color: pink;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a {
+    font-size: larger;
+    text-decoration: none;
+    color: black
+    
+}
+body {
+    margin: 0%;
+}
+.navbar a:hover {
+    color: darkred;
+}
+.text {
+    display: flex;
+    justify-content: space-evenly;
+}
+.textsub {
+margin: 85px;
+}
+.img {
+margin: 20px;
+}
+.naseSluzby {
+    background-color: black;
+    color: white;
+    padding: 40px;
+}

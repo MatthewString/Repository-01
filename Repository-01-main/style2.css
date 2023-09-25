@@ -1,0 +1,62 @@
+.navbar {
+    background-color: pink;
+    padding: 15px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.navbar a {
+    font-size: larger;
+    text-decoration: none;
+    color: black
+    
+}
+body {
+    margin: 0%;
+}
+.navbar a:hover {
+    color: darkred;
+}
+.text {
+    display: flex;
+    justify-content: space-evenly;
+}
+.textsub {
+margin: 85px;
+}
+.img {
+margin: 20px;
+}
+.naseSluzby {
+    background-color: black;
+    color: white;
+    padding: 40px;
+    flex-direction: column;
+    text-align: center;
+}
+.nsRows {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.sluzby1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.sluzby2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.whyUs {
+    text-align: center;
+}
+.whyUsC {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.whyUsT {
+    display: flex;
+    flex-direction: column;
+}
